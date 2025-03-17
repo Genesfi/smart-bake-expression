@@ -1,3 +1,13 @@
 version=1.2
-updateMessage=Versi baru dengan fitur X, Y, dan Z.aaaaaaaaaaaaaaaaa
-downloadURL=https://payhip.com/b/hygAq
+updateMessage=Version 1.2 Update Log
+
+• Enhanced Update Checker... Ensures the update system reliably fetches and displays new version information.
+
+• Deep Bake Optimizations... Improves the keyframe simplification algorithm for smoother transitions and better performance.
+
+• Unbake Refinements... Fine-tunes the unbake process to accurately restore original expressions and keyframes.
+
+• UI Enhancements... Introduces minor interface adjustments for a more intuitive user experience.
+
+• Bug Fixes... Resolves various minor issues related to long-duration baking and keyframe processing.
+downloadURL=https://payhip.com/b/0S2lU
