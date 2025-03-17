@@ -1,7 +1,7 @@
 version=1.2
 updateMessage=Version 1.2 Update Log
 
--Deep Bake – Advanced Baking Mode - Introduces a powerful feature for advanced keyframe baking, allowing more precise control and better handling of complex animations.
+-Deep Bake - Advanced Baking Mode - Introduces a powerful feature for advanced keyframe baking, allowing more precise control and better handling of complex animations.
 -Enhanced Update Checker - Ensures the update system reliably fetches and displays new version information.
 -Unbake Refinements - Fine-tunes the unbake process to accurately restore original expressions and keyframes.
 -UI Enhancements - Introduces minor interface adjustments for a more intuitive user experience.
